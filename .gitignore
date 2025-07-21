@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Data files
+data/
+video_frames/
+*.mp4
+*.pkl
+
+# Model files
+*.pt
+*.onnx
+*.pth
+
+# Large binaries
+*.dll
+*.lib
+*.pyd
+
+# Environment files
+.env
+cookies.txt
+
+# Python cache
+__pycache__/
+*.pyc
